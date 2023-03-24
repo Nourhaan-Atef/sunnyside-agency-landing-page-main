@@ -7,8 +7,19 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+/* .sHome {
+  background-image: url("./images/mobile/image-header.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+} */
 
-
-li .active {
-  text-transform: uppercase;
+/* .graphic {
+  background-image: url("images/desktop/image-graphic-design.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
+.photography {
+  background-image: url("images/desktop/image-photography.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+} */

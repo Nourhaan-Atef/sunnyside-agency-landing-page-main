@@ -4,7 +4,6 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        // blue: "#3ebfff",
         nav_hover: "#6eceff",
         soft_red: "hsl(7, 99%, 70%)",
         yellow: " hsl(51, 100%, 49%)",
@@ -15,6 +14,7 @@ module.exports = {
         very_dark_grayish_blue: " hsl(213, 9%, 39%)",
         dark_grayish_blue: "hsl(232, 10%, 55%)",
         grayish_blue: "hsl(210, 4%, 67%)",
+        footer: "hsl(166.76deg 44.16% 69.8%)",
       },
       fontFamily: {
         fraunces: "Fraunces",
